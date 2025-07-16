@@ -1,5 +1,7 @@
-# Prodigy-Task1-Authenticaiona-nd-Authorization-using-JWT-
+# Prodigy-Task1-Authentication-and-Authorization-using-JWT
 This project is part of my internship at Prodigy InfoTech, focused on implementing a secure user authentication and authorization system using Node.js, Express, MongoDB, and JWT (JSON Web Tokens). It also includes an admin panel with role-based access control (RBAC).
+
+
 Features
   User Registration & Login
   Password hashing using bcryptjs
